@@ -1,2 +1,4 @@
 # demo
-This is a demo file for git understanding
+This is a demo file for understanding GIT
+Author: Lavanya Sharma
+
